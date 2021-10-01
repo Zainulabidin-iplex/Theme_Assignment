@@ -1,0 +1,61 @@
+#contact{
+    width: 1920px;
+    background-color: #0e0c38;
+    padding-top: 100px;
+}
+.contact_main{
+    width: 1728px;
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 80px;
+}
+.con_heading{
+    color: #fff;
+    font-size: 60px;
+    line-height: 90px;
+    padding-top: 80;
+}
+.con_text{
+    color:#fff;
+    font-size: 30px;
+    line-height: 55px;
+    padding-bottom: 30px;
+    padding-top: 15px;
+}
+.filed{
+    display: flex;
+    flex-wrap:wrap ;
+    width: 1728px; 
+    justify-content: space-around;
+    margin: 0 auto; 
+}
+.filed1{
+    background-color: #fff;
+    width: 832px;
+    padding:30px;
+    height: 89px;
+    font-size: 25px;
+    margin-bottom: 25px;
+}
+.filed2{
+    background-color: #fff;
+    width: 1700px;
+    padding:60px;
+    height: 205px;
+    font-size: 25px;
+    margin-bottom: 45px;
+}
+.hiree_btn{
+    background-color: #FF0513;
+    color:#fff;
+    font-size: 30px;
+    line-height: 35px;
+    width: 279px;
+    height: 96px;
+    border-radius: 50px;
+    border:2px solid #fff;
+    margin-bottom:70px;
+    margin-top:70px;
+}

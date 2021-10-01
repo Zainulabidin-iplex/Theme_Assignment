@@ -1,0 +1,67 @@
+.home_container {
+  width: 1920px;
+  background-color: #0e0c38;
+}
+.home_main {
+  width: 1728px;
+  display: flex;
+  justify-content: space-between; 
+  margin: 0 auto;
+}
+.home_left{
+    margin-top:160px;
+}
+.text_1 {
+  color: #fff;
+  font-size: 41px;
+}
+.home_name {
+  font-size: 150px;
+  color: #fff;
+  line-height: 146px;
+}
+.text_2 {
+  color: #fff;
+  font-size: 26px;
+}
+.icon {
+  color: #fff;
+  /* width:56px; */
+  /* height:35px; */
+  margin-top:16px;
+  font-size:70px;
+  margin-right:14px ;
+}
+.hire_btn {
+  font-size: 30px; 
+  color: #fff;
+  background-color:#ff0513;
+  padding: 30px;
+  border-radius: 50px; 
+  border: 2px solid #707070;
+  width:279px;
+  height:96px;
+  margin-right: 32px;
+}
+/* .home_right {
+  max-width: 908px;
+} */
+.portfolio_btn{
+  font-size: 30px; 
+  color: #fff;
+  background-color:transparent;
+  padding: 30px;
+  border-radius: 50px; 
+  border: 2px solid #707070;
+  width:279px;
+  height:96px;
+}
+.home_btn{
+  margin-top: 50px;
+}
+.ui_color{
+  color:#ff0513;
+}
+.home_image{
+  width: 908px;
+}

@@ -1,0 +1,60 @@
+.capa_wrap {
+  width: 1728px;
+  margin: 0 auto;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  padding-bottom: 60px;
+  background-color: #0e0c38;
+}
+.capa_heading {
+  color: #fff;
+  font-size: 60px;
+  line-height: 108px;
+}
+.capa_text {
+  color: #fff;
+  font-size: 30px;
+  line-height: 55px;
+}
+.skill_main {
+  width: 1728px; 
+  margin: 0 auto;
+  justify-content: space-between;
+  align-content: center;
+  text-align: center;
+  align-items: center;
+  margin: 0 auto;
+  padding-bottom: 50px;
+  display: flex; 
+  flex-wrap:wrap; 
+  padding-top: 80px;
+}
+.skillll{
+ margin-bottom:60px;
+}
+ .skilll_image{
+  width: 106px;
+  height: 106px;
+  
+}
+.skilll_heading {
+  color: #fff;
+  font-size: 35px;
+  line-height:44px;
+  /* width: 326px;  */
+  padding-top: 10px;
+  padding-bottom:10px ;
+}
+.skilll_text {
+  color:#fff;
+  font-size: 22px;
+  line-height: 44px;  
+  padding-bottom:30px
+  
+}   
+.main_countainer{
+  width: 1920px;
+  background-color: #0e0c38;
+  padding-top:60px;
+}

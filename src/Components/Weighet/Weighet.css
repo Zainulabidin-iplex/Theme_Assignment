@@ -1,0 +1,44 @@
+.footer_countainer{
+    background-color: #040221;
+    width: 1920px;
+
+}
+.footer_main{
+    width: 1720px;
+    align-items: center;
+    justify-content: space-around;
+    align-content: center;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 80px;
+}
+.foo_heading{
+    color: #fff;
+    font-size: 95px;
+    line-height: 112px;
+    margin-bottom: 80px;
+
+}
+.link{
+    color: #fff;
+    font-size: 20px;
+    line-height: 47px;
+    margin-bottom: 20px;
+
+}
+.enum{
+    color: #fff;
+    font-size: 20px;
+    line-height: 47px;
+    margin-bottom: 40px;
+
+}
+.foo_icon{
+    padding-bottom: 100px;
+}
+.ficon{
+    color: #fff;
+    font-size:60px;
+    padding-right:22px ;
+
+}

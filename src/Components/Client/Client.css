@@ -1,0 +1,131 @@
+.client_container{
+    width: 1920px;
+    background-color: #040221;
+}
+.client_wrap{
+    width:1728px;
+    margin: 0 auto;
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 60px;
+    padding-top: 90px;
+}
+.client_heading{
+    color: #fff;
+    font-size: 60px;
+    line-height: 108px;
+    padding-bottom: 60px;
+}
+.client_text1{
+    color:#fff;
+    font-size: 30px;
+    line-height: 55px;
+    padding-bottom: 80px;
+}
+.cr_countainers{
+    /* display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    align-content:center;
+    width: 1920px; */
+}
+.client_review{
+    display: flex; 
+    margin: 0 auto;
+    justify-content: space-between;
+    align-items: center;
+    align-content:center; 
+    width: 1728px;
+    padding-bottom:70px;
+    position: relative;
+}
+.profile{
+    background-image: url("../Client/img/client.png");
+    width: 809px;
+    display: flex;
+    flex-wrap: wrap;
+    margin:0 auto;
+    justify-content: space-around;
+    position: relative;
+}
+.review{
+    padding-bottom: 80px !important;
+}
+.c_icon{
+    color: red;
+    font-size: 40px;
+}
+
+.client_text{
+    font-size: 30px;
+    color: #fff;
+    line-height: 55px;
+    width: 841px;
+}
+.client_name{
+    font-size: 30px;
+    color: #fff;
+    line-height: 44px;
+    padding-top:40px;
+}
+.client_pos{
+    font-size: 22px;
+    color: #fff;
+    line-height: 44px;
+}
+.profile{
+    /* display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto; */
+}
+.c_img1{
+    width:166px;
+    height:166px;
+    /* position: absolute;  */
+}
+.c_img1:hover{
+   transform: scale(1.05);
+}
+.c_img2{
+    width:125px;
+    height:125px;
+    /* position: absolute;  */
+}
+.c_img2:hover{
+    transform: scale(1.05);
+ }
+.c_img3{
+    width:187px;
+    height:187px;
+     /* position: absolute;  */
+}
+.c_img3:hover{
+    transform: scale(1.05);
+ }
+.c_img4{
+    width:96px;
+    height:96px;
+    /* position: absolute;  */
+}
+.c_img4:hover{
+    transform: scale(1.05);
+ }
+.c_img5{
+    width:166px;
+    height:166px;
+    /* position: absolute;  */
+}
+.c_img5:hover{
+    transform: scale(1.05);
+ }
+.c_img6{
+    width:187px;
+    height:187px;
+    /* position: absolute;  */
+}
+.c_img6:hover{
+    transform: scale(1.05);
+ }
