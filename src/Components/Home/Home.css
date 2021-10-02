@@ -7,6 +7,7 @@
   display: flex;
   justify-content: space-between; 
   margin: 0 auto;
+  padding-bottom: 90px;
 }
 .home_left{
     margin-top:160px;

@@ -23,14 +23,6 @@
     line-height: 55px;
     padding-bottom: 80px;
 }
-.cr_countainers{
-    /* display: flex;
-    margin: 0 auto;
-    justify-content: space-between;
-    align-items: center;
-    align-content:center;
-    width: 1920px; */
-}
 .client_review{
     display: flex; 
     margin: 0 auto;
@@ -43,12 +35,11 @@
 }
 .profile{
     background-image: url("../Client/img/client.png");
-    width: 809px;
+    max-width: 809px;
     display: flex;
     flex-wrap: wrap;
     margin:0 auto;
     justify-content: space-around;
-    position: relative;
 }
 .review{
     padding-bottom: 80px !important;
@@ -75,32 +66,53 @@
     color: #fff;
     line-height: 44px;
 }
-.profile{
-    /* display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin: 0 auto; */
-}
+/* .profile div:nth-child(1){
+    position: absolute;
+    top: 5%;
+    left: 10%;  
+  }
+  .profile div:nth-child(2){
+    position: absolute;
+    bottom: 59%;
+    left: 42%;
+  }
+  .profile div:nth-child(3){
+    position: absolute;
+    bottom: 28%;
+    right: 15%;    
+  }
+  .profile div:nth-child(4){
+  position: absolute;
+  top: 60%;
+  right: 49%;   
+  }
+  .profile div:nth-child(5){
+    position: absolute;
+    bottom: 87%;
+    right: 6%;    
+  }
+  .profile div:nth-child(6){
+    position: absolute;
+    bottom: 29%;
+    left: 5%;   
+  } */
 .c_img1{
-    width:166px;
-    height:166px;
-    /* position: absolute;  */
+    width:300px;
+    height:300px;
 }
 .c_img1:hover{
    transform: scale(1.05);
 }
 .c_img2{
-    width:125px;
-    height:125px;
-    /* position: absolute;  */
+    width:180px;
+    height:180px;
 }
 .c_img2:hover{
     transform: scale(1.05);
  }
 .c_img3{
-    width:187px;
-    height:187px;
-     /* position: absolute;  */
+    width:260px;
+    height:260pxpx;
 }
 .c_img3:hover{
     transform: scale(1.05);
@@ -108,7 +120,6 @@
 .c_img4{
     width:96px;
     height:96px;
-    /* position: absolute;  */
 }
 .c_img4:hover{
     transform: scale(1.05);
@@ -116,7 +127,7 @@
 .c_img5{
     width:166px;
     height:166px;
-    /* position: absolute;  */
+    
 }
 .c_img5:hover{
     transform: scale(1.05);
@@ -124,7 +135,7 @@
 .c_img6{
     width:187px;
     height:187px;
-    /* position: absolute;  */
+    
 }
 .c_img6:hover{
     transform: scale(1.05);
